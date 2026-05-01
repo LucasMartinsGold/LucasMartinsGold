@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning a bit of everything — HTML, CSS, JavaScript, Python and more<br>🎯 Goals: Land a great job and keep growing in tech, always learning more<br>🎲 Fun fact: I love learning, pick things up fast and dive headfirst into projects 🚀<br>🎓 Currently studying Systems Analysis and Development at Fatec Dom Paulo Evaristo Arns</p>
+<p align="left">✨ Creating bugs since 2026<br>📚 I'm currently learning a bit of everything — HTML, CSS, JavaScript, Python and more<br>🎯 Goals: Land a great job and keep growing in tech, always learning more<br>🎲 Fun fact: I love learning, pick things up fast and dive headfirst into projects 🚀<br>🎓 Currently studying Systems Analysis and Development at Fatec Dom Paulo Evaristo Arns</p>
 
 ###
 
